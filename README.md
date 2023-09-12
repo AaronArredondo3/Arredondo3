@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Aaron Arredondo
-- 👀 I’m interested in football
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Aaron Arredondo 
+- 👀 I’m interested in Football, Soccer, Gaming, Movies/Entertainment and Technology.
+- 🌱 I’m currently learning to code to become a Software Developer.
+-  I am bilingual, I speak both English and Spanish fluently.
 
 <!---
 Arredondo3/Arredondo3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
